@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="175f8702-8e1c-4680-a572-9b66d0d11f96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_28_x86" />
+  <component name="ProjectId" id="1hJXPdrExn1cyCiu4qvcSKgXEDb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/android/app/src/main/res/values" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example/android/app/src/main/res/values" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="175f8702-8e1c-4680-a572-9b66d0d11f96" name="Default Changelist" comment="" />
+      <created>1599730145164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599730145164</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1600310667549">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599821547919" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1600310667549" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1600310667548">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599821547918" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1600310667548" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1600310667548">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599821547918" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1600310667548" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1600310667549">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state width="1358" height="200" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599821547919" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1600310667549" />
+    <state x="390" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1603076968219">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="390" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1603076968218" />
+  </component>
+</project>
